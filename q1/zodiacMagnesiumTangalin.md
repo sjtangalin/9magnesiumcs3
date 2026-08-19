@@ -70,8 +70,10 @@ else:
 
 ### Valid Year Output
 
-![Valid Year Output](Screenshot(6).png)
+![Valid Year Output]
+(Screenshot(6).png)
 
 ### Invalid Year Output
 
-![Invalid Year Output](Screenshot(3).png)
+![Invalid Year Output]
+(Screenshot(3).png)
