@@ -65,3 +65,13 @@ else:
     zodiac = zodiac_signs[zodiac_index]
 
     print("Your Chinese Zodiac Sign is:", zodiac)
+
+## Screenshots
+
+### Valid Year Output
+
+![Valid Year Output](Screenshot(6).png)
+
+### Invalid Year Output
+
+![Invalid Year Output](Screenshot(3).png)
