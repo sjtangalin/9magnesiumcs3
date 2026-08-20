@@ -1,0 +1,55 @@
+# Computational Thinking Exercise
+
+## Smart School Canteen Queue
+
+**Name:** SJ
+**Section:** Magnesium
+**Last name:** Tangalin
+**Date:** August 19,2026
+
+  ## Step 1: Identify the Big Problem
+  ### Main Problem
+  The school canteen has difficulty managing the queue because many students arrive at the same time, causing long waiting times and making it difficult to serve students efficiently.#
+
+## Step 2: Identify the Sub-Problems
+
+1. Students have difficulty knowing which line they should join.
+2. Too many students may arrive at the canteen at the same time.
+3. Canteen staff may have difficulty organizing and serving students efficiently.
+4. Students may spend too much time waiting in the queue.
+
+## Step 3: Apply Computational Thinking Skills
+
+| Sub-Problem | CT Skill | Proposed Solution |
+|---|---|---|
+| Students have difficulty knowing which line they should join. | Abstraction | Provide a simple queue system that clearly shows where students should line up. |
+| Too many students may arrive at the canteen at the same time. | Pattern Recognition | Identify busy periods and use the queue system to manage the expected number of students. |
+| Canteen staff may have difficulty organizing and serving students efficiently. | Decomposition | Divide the canteen process into smaller tasks such as ordering, payment, and food collection. |
+| Students may spend too much time waiting in the queue. | Algorithm Design | Create a clear sequence for students to follow from joining the queue to receiving their food. |
+
+## Step 4: Algorithmic Solution
+
+### Selected Sub-Problem
+
+Students may spend too much time waiting in the queue.
+
+### Pseudocode
+
+START
+
+Display the queue number system
+
+Ask the student to get a queue number
+
+Wait for the student's number to be called
+
+IF the student's number is called THEN
+    Direct the student to the ordering counter
+    Take the student's order
+    Process the payment
+    Give the student their food
+ELSE
+    Continue waiting
+END IF
+
+END
