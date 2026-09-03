@@ -1,6 +1,7 @@
 # Computer Science 3 Portfolio
 
-**Name:** Sophia Jules O. Tangalin 
+**Name:** Sophia Jules O. Tangalin
+
 **Section:** Magnesium  
 **School Year:** 2026-2027
 
