@@ -23,7 +23,7 @@
 
 ## AI Assistance
 
-I used AI to help me understand how to correctly make the diagram.
+In OOP Activity 1, I used AI to help me understand how to correctly make the diagram.
 
 **Prompt used:**  
 "How do I correctly do the diagram?"
