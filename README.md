@@ -12,7 +12,7 @@
 
 ### Computational Thinking Skills
 
-[View my Computational Thinking Exercise](q1/ctskillsMagnesiumTangalin)
+[View my Computational Thinking Exercise](q1/ctskillsMagnesiumTangalin.md)
 
 ### Chinese Zodiac Coding Exercise
 
