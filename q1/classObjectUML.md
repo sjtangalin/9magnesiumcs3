@@ -38,5 +38,6 @@ The Gun class represents a weapon in a game like Call of Duty: Mobile. It stores
 | aim()                                     |
 | changeDamage(amount : int)                |
 +-------------------------------------------+
+
 ## Design Revision
 No major changes were needed from my original design.
