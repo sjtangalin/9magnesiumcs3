@@ -46,6 +46,6 @@ In OOP Activity 1, I used AI to help me understand how to correctly make the dia
 **Prompt used:**  
 "How do I correctly do the diagram?"
 
-----
+### Q2
 
 In sg8_Encapsulation.py, I used google overview to help with explaining encapsulation itsel.
