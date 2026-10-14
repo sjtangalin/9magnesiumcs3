@@ -34,6 +34,7 @@
 
 ### Study Guide 8 - Enapsulation
 
+[sg8-Encapsulation](q2/sg8_Encapsulation.py)
 
 
 
@@ -44,3 +45,7 @@ In OOP Activity 1, I used AI to help me understand how to correctly make the dia
 
 **Prompt used:**  
 "How do I correctly do the diagram?"
+
+----
+
+In sg8_Encapsulation.py, I used google overview to help with explaining encapsulation itsel.
