@@ -4,7 +4,7 @@ class BankAccount:
         self.__account_number = account_number
         self.__balance = 0.0
         
-        # Use the setter to apply validation during initialization
+        # use the setter to apply validation during initialization
         self.set_balance(balance)
 
     # --- Public Setter Methods ---
@@ -18,7 +18,7 @@ class BankAccount:
         else:
             self.__balance = float(balance)
 
-    # --- Public Getter Methods using @property decorator ---
+    # --- Public Getter Methods using @property decorator (which I saw sa website from one of the references) ---
     @property
     def account_number(self) -> int:
         return self.__account_number
