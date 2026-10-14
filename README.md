@@ -28,6 +28,12 @@
 
 [OOP Seed System](q1/classObjectUML.md)
 
+# Quarter 2
+
+## Activities
+
+### Study Guide 8 - Enapsulation
+
 
 
 
