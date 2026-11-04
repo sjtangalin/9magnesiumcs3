@@ -32,11 +32,17 @@
 
 ## Activities
 
-### Study Guide 8 - Enapsulation
+### Study Guide 8 - Encapsulation
 
 [sg8-Encapsulation](q2/sg8_Encapsulation.py)
 
+### Study Guide 9 - Inheritance
 
+[sg9-Inheritance](q2/sg9_Inheritance.py)
+
+### Study Guide 10 - Method Overriding 
+
+[sg10-Method Overriding](q2/sg10_Method Overriding.py)
 
 
 ## AI Assistance
