@@ -42,7 +42,7 @@
 
 ### Study Guide 10 - Method Overriding 
 
-[sg10-Method Overriding](q2/sg10_Method Overriding.py)
+[sg10-MethodOverriding](q2/sg10_MethodOverriding.py)
 
 
 ## AI Assistance
