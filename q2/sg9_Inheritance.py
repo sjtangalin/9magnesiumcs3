@@ -105,4 +105,3 @@ print("\n===== MAGAZINES =====")
 for item in magazines:
     item.display_info()
     print("--------------------")
---- under construction-----
